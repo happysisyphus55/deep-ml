@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T05:34:46.802Z",
+  "generated_at": "2026-11-10T05:39:34.419Z",
   "items": {
     "math:11": {
       "kind": "math",
@@ -44,6 +44,58 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-11-10T05:34:44.806Z",
       "last_pushed_at": "2026-11-10T05:34:44.806Z"
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-11-07T07:01:08.937Z",
+      "last_pushed_at": "2026-11-07T07:01:08.937Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-11-07T07:03:41.203Z",
+      "last_pushed_at": "2026-11-07T07:03:41.203Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-11-07T07:09:54.331Z",
+      "last_pushed_at": "2026-11-07T07:09:54.331Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-11-07T07:15:48.064Z",
+      "last_pushed_at": "2026-11-07T07:15:48.064Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
