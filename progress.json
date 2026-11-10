@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T21:39:22.219Z",
+  "generated_at": "2026-11-10T05:34:46.802Z",
   "items": {
     "math:11": {
       "kind": "math",
@@ -33,6 +33,17 @@
       "path": "math/0013-solving-linear-systems",
       "first_solved_at": "2026-11-09T21:39:21.552Z",
       "last_pushed_at": "2026-11-09T21:39:21.552Z"
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-11-10T05:34:44.806Z",
+      "last_pushed_at": "2026-11-10T05:34:44.806Z"
     }
   }
 }
